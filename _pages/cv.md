@@ -22,7 +22,7 @@ Bugs Hunting
 ====
 Tens of CVEs and Bugs have been detected by our fuzzers.
 
-Partial of them can be found here(https://www.notion.so/Beacon-fdea7438c9254efb97031402e4c682e9).
+Partial of them can be found [here](https://www.notion.so/Beacon-fdea7438c9254efb97031402e4c682e9).
   
 Reviewer/Sub-/Co-reviewer
 ======
