@@ -10,7 +10,8 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-Currently, I am a third-year Ph.D. student in the Hone Kong University of Science and Technology. 
+Currently, I am a third-year Ph.D. student in the Hone Kong University of Science and Technology.
+My research direction is application security and I am very keen to improving all kinds of vulnerability detection methods such as fuzzing, symbolic execution by using various program analysis techniques. 
 
 
 * NEWS!  
