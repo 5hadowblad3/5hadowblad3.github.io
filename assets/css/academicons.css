@@ -290,6 +290,13 @@
   width: 1.28571429em;
   text-align: center;
 }
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
 .fa-ul {
   padding-left: 0;
   margin-left: 2.14285714em;
