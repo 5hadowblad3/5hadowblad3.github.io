@@ -7,7 +7,7 @@ author_profile: true
 
 # 2022
 
-### S&P' 22
+### S&P'22
 **BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**  
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, and Charles Zhang.  
 *The 43rd IEEE Symposium on Security and Privacy*.
@@ -30,7 +30,7 @@ Peisen Yao, **Heqing Huang**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zh
 
 # 2020
 
-### S&P' 20
+### S&P'20
 **Pangolin: Incremental Hybrid Fuzzing via Polyhedral Path Abstraction**  
 **Heqing Huang**, Peisen Yao, Rongxin Wu, Qingkai Shi, Charles Zhang.  
 *The 41st IEEE Symposium on Security and Privacy*.
