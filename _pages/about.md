@@ -20,7 +20,6 @@ My research direction is application security and I am very keen to improving al
 
 
 ## Publication
-
 ### S&P'22
 **BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**  
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, and Charles Zhang.  
@@ -57,19 +56,15 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 
 
 ## Bugs Hunting
-====
 Tens of CVEs and Bugs have been detected by our fuzzers.
-
 Partial of them can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
 
 ## Funding and Cooperation
-======
 Our work **Pangolin** published in **S&P 2020** has been successfully deployed in Huawei tool-chain,
 and detect more than thousands of crashes/bugs!
 We have thus received the **Huawei Distinguish collaboration 2021** award!
 
 ## Reviewer/Sub-/Co-reviewer
-======
 * [TIFS'20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 * [FSE'19](https://esec-fse19.ut.ee/calls/research-papers/)
 * [ISSTA'19](https://conf.researchr.org/home/issta-2019) 
@@ -77,7 +72,6 @@ We have thus received the **Huawei Distinguish collaboration 2021** award!
 
 
 ## Teaching
-======
 * TA for COMP 6613B - Topics in Programming Languages: Semantics and Verification (Spring 2021).
 * TA for COMP 3111 Software Engineering (Spring 2020).
 * TA for COMP 3111 Software Engineering (Spring 2019).
