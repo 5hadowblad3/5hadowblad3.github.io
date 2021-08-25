@@ -19,7 +19,7 @@ My research direction is application security and I am very keen to improving al
   * Our work for improving symbolic abstraction gets accepted by [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-oopsla)!
 
 
-# Publication
+## Publication
 
 ### S&P'22
 **BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**  
