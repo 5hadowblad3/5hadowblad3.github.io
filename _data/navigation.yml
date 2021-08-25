@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
 #  - title: "Education"
 #    url: /education/
@@ -12,6 +12,6 @@ main:
 #  - title: "Service"
 #    url: /service/
 
-  - title: "Experience"
-    url: /cv/
+  # - title: "Experience"
+  #   url: /cv/
     
