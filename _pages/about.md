@@ -10,8 +10,8 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-Currently, I am a third-year Ph.D. student in the Hone Kong University of Science and Technology.
-My research direction is application security and I am very keen to improving all kinds of vulnerability detection methods such as fuzzing, symbolic execution by using various program analysis techniques. 
+Currently, I am a third-year Ph.D. student at the Hone Kong University of Science and Technology.
+My research direction is application security, and I am very keen to improve all kinds of vulnerability detection methods such as fuzzing, symbolic execution by using various program analysis techniques. 
 
 
 * NEWS!  
@@ -57,11 +57,11 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 
 ## Bugs Hunting
 Tens of CVEs and Bugs have been detected by our fuzzers.
-Partial of them can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
+A partial of them can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
 
 ## Funding and Cooperation
-Our work **Pangolin** published in **S&P 2020** has been successfully deployed in Huawei tool-chain,
-and detect more than thousands of crashes/bugs!
+Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
+and detected more than thousands of crashes/bugs!
 We have thus received the **Huawei Distinguish collaboration 2021** award!
 
 ## Reviewer/Sub-/Co-reviewer
