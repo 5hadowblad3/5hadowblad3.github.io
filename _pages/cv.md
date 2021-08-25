@@ -22,7 +22,7 @@ Bugs Hunting
 ====
 Tens of CVEs and Bugs have been detected by our fuzzers.
 
-Partial of them can be found [here](https://www.notion.so/Beacon-fdea7438c9254efb97031402e4c682e9).
+Partial of them can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
   
 Reviewer/Sub-/Co-reviewer
 ======
@@ -30,6 +30,13 @@ Reviewer/Sub-/Co-reviewer
 * [FSE'19](https://esec-fse19.ut.ee/calls/research-papers/)
 * [ISSTA'19](https://conf.researchr.org/home/issta-2019) 
 * [ASE'18](http://www.ase2018.com)
+
+
+Funding and Cooperation
+======
+Our work **Pangolin** published in **S&P 2020** has been successfully deployed in Huawei tool-chain,
+and detect more than thousands of crashes/bugs!
+We have thus received the **Huawei Distinguish collaboration 2021** award!
 
 Teaching
 ======

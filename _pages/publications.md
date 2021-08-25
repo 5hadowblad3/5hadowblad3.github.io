@@ -22,6 +22,11 @@ author_profile: true
 Peisen Yao, **Heqing Huang<sup>\*</sup>**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang(<sup>\*</sup>Corresponding author).  
 *The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
 
+### OOPSLA'21 
+**Program Analysis via Efficient Symbolic Abstraction**  
+Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.  
+*The 36th ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications*
+
 ### ISSTA'21 
 **Fuzzing SMT Solvers via Two-Dimentional Input Space Exploration**  
 Peisen Yao, **Heqing Huang**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang.  
