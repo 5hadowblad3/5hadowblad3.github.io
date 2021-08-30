@@ -56,8 +56,9 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 
 
 ## Bugs Hunting
-Tens of CVEs and Bugs have been detected by our fuzzers.
-A partial of them can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
+Tens of CVEs and thousands of bugs have been detected by our fuzzers.
+A partial of vulnerabilities can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
+We also list the bugs found for specific softwares [here](https://smtfuzz.github.io).
 
 ## Funding and Cooperation
 Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
