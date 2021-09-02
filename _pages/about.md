@@ -5,7 +5,8 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /index.html
+  - index.html
 ---
 
 Welcome to Heqing Huang's homepage!
@@ -22,7 +23,7 @@ My research direction is application security, and I am very keen to improve all
 ## Publication
 ### S&P'22
 **BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**  
-**Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, and Charles Zhang.  
+**Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
 *The 43rd IEEE Symposium on Security and Privacy*.
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
@@ -34,7 +35,7 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 
 ### FSE'21 
 **Skeletal Approximation Enumeration for SMT Solver Testing**  
-Peisen Yao, **Heqing Huang<sup>\*</sup>**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles.
+Peisen Yao, **Heqing Huang<sup>\*</sup>**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang.
 *The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
 
 ### ISSTA'21 
