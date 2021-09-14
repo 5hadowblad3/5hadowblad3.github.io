@@ -5,8 +5,8 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /index.html
-  - index.html
+  # - /index.html
+  # - index.html
 ---
 
 Welcome to Heqing Huang's homepage!
