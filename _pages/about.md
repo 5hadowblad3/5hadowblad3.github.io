@@ -22,12 +22,12 @@ My research direction is application security, and I am very keen to improve all
 
 ## Publication
 ### S&P'22
-**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**(https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)  
+**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
 *The 43rd IEEE Symposium on Security and Privacy*.
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
-<!-- [[PDF]](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)    -->
+[[PDF]](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)   
 
 ### OOPSLA'21 
 **Program Analysis via Efficient Symbolic Abstraction**  
