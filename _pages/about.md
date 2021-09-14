@@ -22,7 +22,7 @@ My research direction is application security, and I am very keen to improve all
 
 ## Publication
 ### S&P'22
-**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**
+**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**  
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
 *The 43rd IEEE Symposium on Security and Privacy*.
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
