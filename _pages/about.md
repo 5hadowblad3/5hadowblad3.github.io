@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-Currently, I am a third-year Ph.D. student at the Hone Kong University of Science and Technology.
+Currently, I am a Ph.D. student at the Hone Kong University of Science and Technology.
 My research direction is application security, and I am very keen to improve all kinds of vulnerability detection methods such as fuzzing, symbolic execution by using various program analysis techniques. 
 
 
@@ -27,6 +27,7 @@ My research direction is application security, and I am very keen to improve all
 *The 43rd IEEE Symposium on Security and Privacy*.
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
+[[PDF]](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)   
 
 ### OOPSLA'21 
 **Program Analysis via Efficient Symbolic Abstraction**  
