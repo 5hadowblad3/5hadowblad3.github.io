@@ -35,24 +35,24 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 *The 36th ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages and Applications*
 
 ### FSE'21 
-**Skeletal Approximation Enumeration for SMT Solver Testing**  
+[**Skeletal Approximation Enumeration for SMT Solver Testing**](https://5hadowblad3.github.io/files/FSE21.pdf)     
 Peisen Yao, **Heqing Huang<sup>\*</sup>**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang.  
 *The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
 
 ### ISSTA'21 
-**Fuzzing SMT Solvers via Two-Dimentional Input Space Exploration**  
+[**Fuzzing SMT Solvers via Two-Dimentional Input Space Exploration**](https://5hadowblad3.github.io/files/ISSTA20201.pdf)  
 Peisen Yao, **Heqing Huang**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang.  
 *The 30th ACM SIGSOFT International Symposium on Software Testing and Analysis*.
 
 ### S&P'20
-**Pangolin: Incremental Hybrid Fuzzing via Polyhedral Path Abstraction**  
+[**Pangolin: Incremental Hybrid Fuzzing via Polyhedral Path Abstraction**](https://5hadowblad3.github.io/files/SP2020.pdf)    
 **Heqing Huang**, Peisen Yao, Rongxin Wu, Qingkai Shi, Charles Zhang.  
 *The 41st IEEE Symposium on Security and Privacy*.
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
 
 ### ISSTA'20 
-**Fast Bit-Vector Satisfiability**  
+[**Fast Bit-Vector Satisfiability**](https://5hadowblad3.github.io/files/ISSTA20-Trident.pdf)  
 Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.  
 *The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis*.  
 
