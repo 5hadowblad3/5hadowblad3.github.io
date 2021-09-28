@@ -16,7 +16,7 @@ My research direction is application security, and I am very keen to improve all
 
 
 * NEWS!  
-  * Received Huawei distinguished collaborator award on deploying Pangolin (Oakland 20)!
+  * Received Huawei distinguished collaborator award on deploying Pangolin (S&P 20)!
   * Our directed fuzzing work has been accepted by [S&P 2022](https://www.ieee-security.org/TC/SP2022/index.html)!
   * Our work for improving symbolic abstraction gets accepted by [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-oopsla)!
 
