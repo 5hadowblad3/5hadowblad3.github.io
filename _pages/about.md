@@ -16,6 +16,7 @@ My research direction is application security, and I am very keen to improve all
 
 
 * NEWS!  
+  * Received Huawei distinguished collaborator award on deploying Pangolin (Oakland 20)!
   * Our directed fuzzing work has been accepted by [S&P 2022](https://www.ieee-security.org/TC/SP2022/index.html)!
   * Our work for improving symbolic abstraction gets accepted by [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-oopsla)!
 
@@ -65,7 +66,7 @@ We also list the bugs found specifically for solvers [here](https://smtfuzz.gith
 ## Funding and Cooperation
 Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
 and detected more than thousands of crashes/bugs!
-We have thus received the **Huawei Distinguish collaboration 2021** award!
+We have thus received the **Huawei Distinguish collaborator 2021** award!
 
 ## Reviewer/Sub-/Co-reviewer
 * [TIFS'20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
