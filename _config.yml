@@ -263,6 +263,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
