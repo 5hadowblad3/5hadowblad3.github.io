@@ -79,6 +79,8 @@ We have thus received the **Huawei Distinguish collaborator 2021** award!
 
 
 ## Teaching
+* TA for COMP 3021 - Java Programming (Spring 2022).
 * TA for COMP 6613B - Topics in Programming Languages: Semantics and Verification (Spring 2021).
 * TA for COMP 3111 Software Engineering (Spring 2020).
+* TA for COMP 3111 Software Engineering (Fall 2019).
 * TA for COMP 3111 Software Engineering (Spring 2019).
