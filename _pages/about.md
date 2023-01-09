@@ -11,8 +11,8 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-Currently, I am a Ph.D. student supervised by [Dr. Charles Zhang](http://home.cse.ust.hk/~charlesz/) at the Hong Kong University of Science and Technology (HKUST).
-My research direction is application security, and I am very keen to improve all kinds of vulnerability detection methods such as fuzzing, symbolic execution by using various program analysis techniques. 
+Currently, I am a Postdoc research fellow supervised by [Dr. Charles Zhang](http://home.cse.ust.hk/~charlesz/) at the Hong Kong University of Science and Technology (HKUST).
+My research direction is application security, and I am very keen to improve all kinds of vulnerability detection methods such as fuzzing, symbolic execution by using various program analysis techniques. Especially, I prefer combine the two state-of-the-art techniques, static analysis and dynamic fuzzing, to improve the effectiveness.
 
 **I am on the job market for faculty positions starting from 2022/2023!**
 
