@@ -32,7 +32,7 @@ I am a Postdoc research fellow supervised by Dr. Charles Zhang at the Hong Kong 
 <!-- [[PDF]](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)    -->
 
 ### OOPSLA'21 
-**Program Analysis via Efficient Symbolic Abstraction**  
+[**Program Analysis via Efficient Symbolic Abstraction**](https://5hadowblad3.github.io/files/oopsla-21.pdf)  
 Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.  
 *The 36th ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages and Applications*
 
