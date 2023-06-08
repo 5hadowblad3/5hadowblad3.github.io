@@ -14,15 +14,20 @@ Welcome to Heqing Huang's homepage!
 I am a Postdoc research fellow supervised by Dr. Charles Zhang at the Hong Kong University of Science and Technology (HKUST). My research direction is application security. I am very keen to improve all kinds of vulnerability detection methods by using various program analysis techniques, such as fuzzing and symbolic execution. Especially, I prefer to combine the two state-of-the-art techniques, static analysis, and dynamic fuzzing, to improve the effectiveness.
 
 
-**I am on the job market for faculty positions starting from 2022/2023!**
 
 * NEWS!  
+  * Our work for improving seed scheduling gets accepted by [TDSC 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
   * Received Huawei distinguished collaborator award on deploying Pangolin (S&P 20)!
   * Our directed fuzzing work has been accepted by [S&P 2022](https://www.ieee-security.org/TC/SP2022/index.html)!
-  * Our work for improving symbolic abstraction gets accepted by [OOPSLA 2021](https://2021.splashcon.org/track/splash-2021-oopsla)!
 
 
 ## Publication
+
+### TDSC'23
+[**Balance Seed Scheduling via Monte Carlo Planning**](https://5hadowblad3.github.io/) 
+**Heqing Huang**, HungChun Chiu, Qingkai Shi, Peisen Yao, Charles Zhang.  
+*IEEE Transactions on Dependable and Secure Computing*.  
+
 ### S&P'22
 [**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)  
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
@@ -71,6 +76,7 @@ We also list the bugs found specifically for solvers [here](https://smtfuzz.gith
 
 
 ## Reviewer/Sub-/Co-reviewer
+* [TIFS'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 * [SANER'23](https://saner2023.must.edu.mo)
 * [PLDI'23](https://pldi23.sigplan.org)
 * [TDSC'22](https://www.computer.org/csdl/journal/tq)
