@@ -75,13 +75,14 @@ We also list the bugs found specifically for solvers [here](https://smtfuzz.gith
 
 
 
-## Reviewer/Sub-/Co-reviewer
+## Reviewer
 * [TIFS'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
-* [SANER'23](https://saner2023.must.edu.mo)
-* [PLDI'23](https://pldi23.sigplan.org)
+* [SANER'23 (Tool Track)](https://saner2023.must.edu.mo)
 * [TDSC'22](https://www.computer.org/csdl/journal/tq)
-* [ASE'21](https://conf.researchr.org/home/ase-2021)
 * [TIFS'20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+## Sub-/Co-reviewer
+* [PLDI'23](https://pldi23.sigplan.org)
+* [ASE'21](https://conf.researchr.org/home/ase-2021)
 * [FSE'19](https://esec-fse19.ut.ee/calls/research-papers/)
 * [ISSTA'19](https://conf.researchr.org/home/issta-2019) 
 * [ASE'18](http://www.ase2018.com)
