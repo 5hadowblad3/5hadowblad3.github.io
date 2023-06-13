@@ -16,6 +16,7 @@ I am a Postdoc research fellow supervised by Dr. Charles Zhang at the Hong Kong 
 
 
 * NEWS!  
+  * Received Google Research Paper award for our directed fuzzing work, Beacon (S&P 22)!
   * Our work for improving seed scheduling in fuzz testing gets accepted by [TDSC 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
   * Received Huawei distinguished collaborator award on deploying Pangolin (S&P 20)!
   * Our directed fuzzing work has been accepted by [S&P 2022](https://www.ieee-security.org/TC/SP2022/index.html)!
