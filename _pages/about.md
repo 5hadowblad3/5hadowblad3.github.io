@@ -27,7 +27,7 @@ I am a Postdoc research fellow supervised by Dr. Charles Zhang at the Hong Kong 
 ### TDSC'23
 [**Balance Seed Scheduling via Monte Carlo Planning**](https://5hadowblad3.github.io/files/TDSC.pdf)   
 **Heqing Huang**, Hung-Chun Chiu, Qingkai Shi, Peisen Yao, Charles Zhang.  
-*IEEE Transactions on Dependable and Secure Computing*.  
+*IEEE Transactions on Dependable and Secure Computing*.
 [[Artifacts]](https://github.com/5hadowblad3/Belieffuzz)
 
 ### S&P'22
