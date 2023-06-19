@@ -28,11 +28,13 @@ I am a Postdoc research fellow supervised by Dr. Charles Zhang at the Hong Kong 
 [**Balance Seed Scheduling via Monte Carlo Planning**](https://5hadowblad3.github.io/files/TDSC.pdf)   
 **Heqing Huang**, Hung-Chun Chiu, Qingkai Shi, Peisen Yao, Charles Zhang.  
 *IEEE Transactions on Dependable and Secure Computing*.  
+[[Artifacts]](https://github.com/5hadowblad3/Belieffuzz)
 
 ### S&P'22
 [**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)  
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
 *The 43rd IEEE Symposium on Security and Privacy*.  
+**Google Research Paper Award**
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
 <!-- [[PDF]](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)    -->
