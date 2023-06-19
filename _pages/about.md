@@ -33,7 +33,8 @@ I am a Postdoc research fellow supervised by Dr. Charles Zhang at the Hong Kong 
 ### S&P'22
 [**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)  
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
-*The 43rd IEEE Symposium on Security and Privacy*.  
+*The 43rd IEEE Symposium on Security and Privacy*.
+[[Artifacts]](https://hub.docker.com/r/yguoaz/beacon)  
 **Google Research Paper Award**
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
