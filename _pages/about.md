@@ -35,7 +35,7 @@ I am a Postdoc research fellow supervised by Dr. Charles Zhang at the Hong Kong 
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
 *The 43rd IEEE Symposium on Security and Privacy*.
 [[Artifacts]](https://hub.docker.com/r/yguoaz/beacon)  
-**Google Research Paper Award**
+ <span style='color: red;'>**Google Research Paper Award**</span>
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
 <!-- [[PDF]](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)    -->
@@ -48,7 +48,8 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 ### FSE'21 
 [**Skeletal Approximation Enumeration for SMT Solver Testing**](https://5hadowblad3.github.io/files/FSE21.pdf)     
 Peisen Yao, **Heqing Huang<sup>\*</sup>**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang.  
-*The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*
+*The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*  
+(* correspondence author)
 
 ### ISSTA'21 
 [**Fuzzing SMT Solvers via Two-Dimentional Input Space Exploration**](https://5hadowblad3.github.io/files/ISSTA20201.pdf)  
