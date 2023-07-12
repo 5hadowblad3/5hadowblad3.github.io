@@ -79,7 +79,7 @@ and detected more than thousands of crashes/bugs!
 We have thus received the **Huawei Distinguish Collaborator 2021** award! This is also reported by HKUST [CSE department](https://cse.hkust.edu.hk/News/Huawei2021/)!
 
 ## Bugs Hunting
-Our self-built fuzzer framework (Integration of S&P'20, 22, 24, TDSC'23) has discovered more than 1000 bugs in the widely-used commercial and open-source projects, with over 100 of them assigned with CVE IDs and over $10K bounties. A partial of vulnerabilities detected can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
+Our self-built fuzzing framework (Integration of S&P'20, 22, 24, TDSC'23) has discovered more than 1000 bugs in the widely-used commercial and open-source projects, with over 100 of them assigned with CVE IDs and over $10K bounties. A partial of vulnerabilities detected can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
 We also list the bugs found specifically for SMT theorem provers [here](https://smtfuzz.github.io).
 
 
