@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-I am a Postdoc research fellow supervised by Dr. Charles Zhang at the Hong Kong University of Science and Technology (HKUST). My research direction is application security. I am very keen to improve all kinds of vulnerability detection methods by using various program analysis techniques, such as fuzzing and symbolic execution. Especially, I prefer to combine the two state-of-the-art techniques, static analysis, and dynamic fuzzing, to improve the effectiveness.
+I am a Postdoc research fellow supervised by [Dr. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology (HKUST). My research direction is application security. I am very keen to improve all kinds of vulnerability detection methods by using various program analysis techniques, such as fuzzing and symbolic execution. Especially, I prefer to combine the two state-of-the-art techniques, static analysis, and dynamic fuzzing, to improve the effectiveness.
 
 
 
@@ -76,13 +76,17 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 ## Funding and Cooperation
 Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
 and detected more than thousands of crashes/bugs!
-We have thus received the **Huawei Distinguish collaborator 2021** award! This is also reported by HKUST [CSE department](https://cse.hkust.edu.hk/News/Huawei2021/)!
+We have thus received the **Huawei Distinguish Collaborator 2021** award! This is also reported by HKUST [CSE department](https://cse.hkust.edu.hk/News/Huawei2021/)!
 
 ## Bugs Hunting
 Tens of CVEs and thousands of bugs have been detected by our fuzzers.
 A partial of vulnerabilities can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
 We also list the bugs found specifically for solvers [here](https://smtfuzz.github.io).
 
+
+## Award
+  * Google Research Paper Award, 2023
+  * Huawei Distinguish Collaborator, 2021
 
 
 ## Reviewer
