@@ -88,11 +88,11 @@ We also list the bugs found specifically for SMT theorem provers [here](https://
   * Huawei Distinguish Collaborator, 2021
 
 
-## Reviewer
-* [TIFS'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
-* [SANER'23 (Tool Track)](https://saner2023.must.edu.mo)
-* [TDSC'22](https://www.computer.org/csdl/journal/tq)
-* [TIFS'20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+## Academic Service
+* PC committee, [SANER'23 (Tool Track)](https://saner2023.must.edu.mo)
+* Reviewer, [TIFS'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+* Reviewer, [TDSC'22](https://www.computer.org/csdl/journal/tq)
+* Reviewer, [TIFS'20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 
 
 ## Sub-/Co-reviewer
@@ -103,7 +103,7 @@ We also list the bugs found specifically for SMT theorem provers [here](https://
 * [ASE'18](http://www.ase2018.com)
 
 
-## Teaching
+## Teaching Service
 * TA for COMP 3021 - Java Programming (Spring 2022).
 * TA for COMP 6613B - Topics in Programming Languages: Semantics and Verification (Spring 2021).
 * TA for COMP 3111 Software Engineering (Spring 2020).
