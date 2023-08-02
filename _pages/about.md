@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-I am a Postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology (HKUST). My research focuses on application security, especially leveraging program analysis techniques to ensure software security rigorously.
+I am a Postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. My research focuses on application security, especially leveraging program analysis techniques to ensure software security rigorously.
 Specifically, my research takes advantage of both static and dynamic techniques as complements to address deficiency problems in existing vulnerability detection methods, such as fuzzing (S&P'20, 22, 24, TDSC'23, FSE'21, ISSTA 21) and symbolic execution (OOPSLA'21, ISSTA'20).
 
 
