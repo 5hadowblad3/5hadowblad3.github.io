@@ -54,7 +54,7 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 [**Skeletal Approximation Enumeration for SMT Solver Testing**](https://5hadowblad3.github.io/files/FSE21.pdf)     
 Peisen Yao, **Heqing Huang<sup>\*</sup>**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang.  
 *The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*  
-(* correspondence author)
+(* corresponding author)
 
 ### ISSTA'21 
 [**Fuzzing SMT Solvers via Two-Dimentional Input Space Exploration**](https://5hadowblad3.github.io/files/ISSTA20201.pdf)  
