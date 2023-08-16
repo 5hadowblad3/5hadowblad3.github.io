@@ -39,7 +39,7 @@ Specifically, my research takes advantage of both static and dynamic techniques 
 [**BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning**](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)  
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
 *The 43rd IEEE Symposium on Security and Privacy*.
-[[Artifacts]](https://hub.docker.com/r/yguoaz/beacon)  
+[[Artifacts]](https://github.com/5hadowblad3/Beacon_artifact)  
  <span style='color: red;'>**Google Research Paper Award**</span>
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
