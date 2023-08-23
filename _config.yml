@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: https://twitter.com/HeqingHuang66
   username               : &twitter
 facebook:
   username               :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : https://twitter.com/HeqingHuang66
   vine             :
   weibo            :
   xing             :
