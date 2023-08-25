@@ -84,12 +84,13 @@ We also list the bugs found specifically for SMT theorem provers [here](https://
 
 
 ## Award
-  * Google Research Paper Award, 2023
+  * Google Research Paper Award, 2022
   * Huawei Distinguish Collaborator, 2021
 
 
 ## Academic Service
 * PC committee, [SANER'23 (Tool Track)](https://saner2023.must.edu.mo)
+* Reviewer, [TSE'23](https://www.computer.org/csdl/journal/ts)
 * Reviewer, [TIFS'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 * Reviewer, [TDSC'22](https://www.computer.org/csdl/journal/tq)
 * Reviewer, [TIFS'20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
