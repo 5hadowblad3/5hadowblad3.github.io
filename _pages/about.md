@@ -17,7 +17,7 @@ Specifically, my research takes advantage of both static and dynamic techniques 
 
 * NEWS!  
   * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
-  * Received Google Research Paper award for our directed fuzzer published in [S&P 2022](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf))!  
+  * Received Google Research Paper award for our directed fuzzer published in [S&P 2022](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)!  
   * Our work for improving seed scheduling in fuzz testing gets accepted by [TDSC 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!  
   * Received Huawei distinguished collaborator award on deploying Pangolin ([S&P 2020](https://5hadowblad3.github.io/files/SP2020.pdf))!  
 
