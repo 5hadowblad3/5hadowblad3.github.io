@@ -25,7 +25,7 @@ Specifically, my research takes advantage of both static and dynamic techniques 
 ## Publication
 
 ### S&P'24
-**Titan: Efficient Multi-target Directed Greybox Fuzzing** (https://5hadowblad3.github.io/files/Oakland24-Titan.pdf)    
+[**Titan: Efficient Multi-target Directed Greybox Fuzzing**](https://5hadowblad3.github.io/files/Oakland24-Titan.pdf)    
 **Heqing Huang**, Peisen Yao, Hung-Chun Chiu, Yiyuan Guo, Charles Zhang.    
 *The 45th IEEE Symposium on Security and Privacy*.  
 [[Artifacts]](https://github.com/5hadowblad3/Titan)  
