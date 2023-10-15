@@ -11,15 +11,20 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-I am a Postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. My research focuses on application security, especially leveraging program analysis techniques to ensure software security rigorously.
+I am an incoming assistant professor at [City University of Hong Kong](https://www.cityu.edu.hk/). Currently, I am a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. My research focuses on application security, especially leveraging program analysis techniques to ensure software security rigorously.
 Specifically, my research takes advantage of both static and dynamic techniques as complements to address deficiency problems in existing vulnerability detection methods, such as fuzzing (S&P'20, 22, 24, TDSC'23, FSE'21, ISSTA 21) and symbolic execution (OOPSLA'21, ISSTA'20).
 
 
 * NEWS!  
+  * I will join City University of Hong Kong next year!
   * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
   * Received Google Research Paper award for our directed fuzzer published in [S&P 2022](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)!  
   * Our work for improving seed scheduling in fuzz testing gets accepted by [TDSC 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!  
   * Received Huawei distinguished collaborator award on deploying Pangolin ([S&P 2020](https://5hadowblad3.github.io/files/SP2020.pdf))!  
+
+
+
+**I am looking for multiple Ph.D. and RAs starting in Jan 2024! If you pursue making the program more secure, please feel free to send me an email!**
 
 
 ## Publication
