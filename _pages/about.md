@@ -24,7 +24,7 @@ Specifically, my research takes advantage of both static and dynamic techniques 
 
 
 
-**I am looking for multiple Ph.D. students and RAs starting in Jan 2024! If you pursue making the program more secure and reliable, please feel free to send me an email!**
+**I am looking for multiple Ph.D. students and RAs starting in Jan and Sep 2024! If you pursue making the program more secure and reliable, please feel free to send me an email!**
 
 
 ## Publication
