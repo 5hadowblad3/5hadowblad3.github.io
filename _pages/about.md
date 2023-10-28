@@ -87,7 +87,7 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 
 ## Funding and Cooperation
 Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
-and detected more than thousands of crashes/bugs!
+and detected more than **1000+** crashes/bugs!
 We have thus received the **Huawei Distinguish Collaborator 2021** award! This is also reported by HKUST [CSE department](https://cse.hkust.edu.hk/News/Huawei2021/)!
 
 ## Bugs Hunting
