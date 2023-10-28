@@ -16,6 +16,7 @@ Specifically, my research takes advantage of both static and dynamic techniques 
 
 
 * NEWS!  
+  * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
   * I will join City University of Hong Kong next year!
   * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
   * Received Google Research Paper award for our directed fuzzer published in [S&P 2022](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)!  
@@ -28,6 +29,11 @@ Specifically, my research takes advantage of both static and dynamic techniques 
 
 
 ## Publication
+
+### S&P'24
+**Everything is Good for Something: Counterexample-Guided Directed Fuzzing via Likely Invariant Inference**(To appear)    
+**Heqing Huang**, Anshunkang Zhou, Mathias Payer, Charles Zhang.    
+*The 45th IEEE Symposium on Security and Privacy*.
 
 ### S&P'24
 [**Titan: Efficient Multi-target Directed Greybox Fuzzing**](https://5hadowblad3.github.io/files/Oakland24-Titan.pdf)    
