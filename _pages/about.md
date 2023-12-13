@@ -16,7 +16,7 @@ Specifically, my research takes advantage of both static and dynamic techniques 
 
 
 * NEWS!  
-  * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions receive conditional accept!
+  * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
   * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
   * I will join City University of Hong Kong next year!
   * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
@@ -29,6 +29,16 @@ Specifically, my research takes advantage of both static and dynamic techniques 
 
 
 ## Publication
+
+### ASPLOS'24
+**GIANTSAN: Efficient Memory Sanitization with Segment Folding**(To appear)   
+Hao Ling, **Heqing Huang**, Chengpeng Wang, Yuandao Cai, Charles Zhang.  
+*ACM Conference on Architectural Support for Programming Languages and Operating Systems*   
+
+### ASPLOS'24
+**Plankton: Reconciling Binary Code and Debug Information**(To appear)   
+Anshunkang Zhou, Chengfeng Ye, **Heqing Huang**, Yuandao Cai, Charles Zhang.  
+*ACM Conference on Architectural Support for Programming Languages and Operating Systems*   
 
 ### S&P'24
 **Everything is Good for Something: Counterexample-Guided Directed Fuzzing via Likely Invariant Inference**(To appear)    
