@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  # - /index.html
+  - /index.html
   # - index.html
 ---
 
@@ -18,7 +18,6 @@ Specifically, my research takes advantage of both static and dynamic program ana
 * NEWS!  
   * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
   * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
-  * I will join City University of Hong Kong next year!
   * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
   * Received Google Research Paper award for our directed fuzzer published in [S&P 2022](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)!   
   * Received Huawei distinguished collaborator award on deploying Pangolin ([S&P 2020](https://5hadowblad3.github.io/files/SP2020.pdf))!  
