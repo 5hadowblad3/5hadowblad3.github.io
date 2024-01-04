@@ -28,15 +28,16 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 
 ## Publication
+(* corresponding author)
 
 ### ASPLOS'24b
 **GIANTSAN: Efficient Memory Sanitization with Segment Folding**(To appear)   
-Hao Ling, **Heqing Huang**, Chengpeng Wang, Yuandao Cai, Charles Zhang.  
+Hao Ling, **Heqing Huang<sup>\*</sup>**, Chengpeng Wang, Yuandao Cai, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*   
 
 ### ASPLOS'24a
 **Plankton: Reconciling Binary Code and Debug Information**(To appear)   
-Anshunkang Zhou, Chengfeng Ye, **Heqing Huang**, Yuandao Cai, Charles Zhang.  
+Anshunkang Zhou, Chengfeng Ye, **Heqing Huang<sup>\*</sup>**, Yuandao Cai, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*   
 
 ### S&P'24b
@@ -75,7 +76,7 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 [**Skeletal Approximation Enumeration for SMT Solver Testing**](https://5hadowblad3.github.io/files/FSE21.pdf)     
 Peisen Yao, **Heqing Huang<sup>\*</sup>**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang.  
 *The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*  
-(* corresponding author)
+
 
 ### ISSTA'21 
 [**Fuzzing SMT Solvers via Two-Dimentional Input Space Exploration**](https://5hadowblad3.github.io/files/ISSTA20201.pdf)  
