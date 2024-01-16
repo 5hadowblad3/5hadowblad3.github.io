@@ -95,16 +95,6 @@ Peisen Yao, **Heqing Huang**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zh
 Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.  
 *The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis*.  
 
-## Funding and Cooperation
-Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
-and detected more than **1000+** crashes/bugs!
-We have thus received the **Huawei Distinguish Collaborator 2021** award! This is also reported by HKUST [CSE department](https://cse.hkust.edu.hk/News/Huawei2021/)!
-
-## Bugs Hunting
-Our self-built fuzzing framework (Integration of S&P'20, 22, 24, TDSC'23) has discovered more than 1000 bugs in the widely-used commercial and open-source projects, with over 100 of them assigned with CVE IDs and over $10K bounties. A partial of vulnerabilities detected can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
-We also list the bugs found specifically for SMT theorem provers [here](https://smtfuzz.github.io).
-
-
 ## Award
   * Google Research Paper Award, 2022
   * Huawei Distinguish Collaborator, 2021
@@ -118,7 +108,6 @@ We also list the bugs found specifically for SMT theorem provers [here](https://
 * Reviewer, [TDSC'22](https://www.computer.org/csdl/journal/tq)
 * Reviewer, [TIFS'20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 
-
 ### Sub-/Co-reviewer
 * [PLDI'23](https://pldi23.sigplan.org)
 * [ASE'21](https://conf.researchr.org/home/ase-2021)
@@ -126,10 +115,18 @@ We also list the bugs found specifically for SMT theorem provers [here](https://
 * [ISSTA'19](https://conf.researchr.org/home/issta-2019) 
 * [ASE'18](http://www.ase2018.com)
 
-
 ## Teaching Service
 * TA for COMP 3021 - Java Programming (Spring 2022).
 * TA for COMP 6613B - Topics in Programming Languages: Semantics and Verification (Spring 2021).
 * TA for COMP 3111 Software Engineering (Spring 2020).
 * TA for COMP 3111 Software Engineering (Fall 2019).
 * TA for COMP 3111 Software Engineering (Spring 2019).
+
+## Funding and Cooperation
+Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
+and detected more than **1000+** crashes/bugs!
+We have thus received the **Huawei Distinguish Collaborator 2021** award! This is also reported by HKUST [CSE department](https://cse.hkust.edu.hk/News/Huawei2021/)!
+
+## Bugs Hunting
+Our self-built fuzzing framework (Integration of S&P'20, 22, 24, TDSC'23) has discovered more than 1000 bugs in the widely-used commercial and open-source projects, with over 100 of them assigned with CVE IDs and over $10K bounties. A partial of vulnerabilities detected can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
+We also list the bugs found specifically for SMT theorem provers [here](https://smtfuzz.github.io).
