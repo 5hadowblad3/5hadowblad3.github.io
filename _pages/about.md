@@ -116,11 +116,7 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 * [ASE'18](http://www.ase2018.com)
 
 ## Teaching Service
-* TA for COMP 3021 - Java Programming (Spring 2022).
-* TA for COMP 6613B - Topics in Programming Languages: Semantics and Verification (Spring 2021).
-* TA for COMP 3111 Software Engineering (Spring 2020).
-* TA for COMP 3111 Software Engineering (Fall 2019).
-* TA for COMP 3111 Software Engineering (Spring 2019).
+* CS3402 - Database System (2024 Spring)
 
 ## Funding and Cooperation
 Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
