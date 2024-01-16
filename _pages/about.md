@@ -111,8 +111,8 @@ We also list the bugs found specifically for SMT theorem provers [here](https://
 
 
 ## Academic Service
-* PC committee, [CCS'24](https://www.sigsac.org/ccs/CCS2024/home.html)
-* PC committee, [SANER'23 (Tool Track)](https://saner2023.must.edu.mo)
+* Program committee, [CCS'24](https://www.sigsac.org/ccs/CCS2024/home.html)
+* Program committee, [SANER'23 (Tool Track)](https://saner2023.must.edu.mo)
 * Reviewer, [TSE'23](https://www.computer.org/csdl/journal/ts)
 * Reviewer, [TIFS'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 * Reviewer, [TDSC'22](https://www.computer.org/csdl/journal/tq)
