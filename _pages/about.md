@@ -33,7 +33,9 @@ Specifically, my research takes advantage of both static and dynamic program ana
 ### ASPLOS'24b
 [**GIANTSAN: Efficient Memory Sanitization with Segment Folding**](https://5hadowblad3.github.io/files/asplos24-GiantSan.pdf)   
 Hao Ling, **Heqing Huang<sup>\*</sup>**, Chengpeng Wang, Yuandao Cai, Charles Zhang.  
-*ACM Conference on Architectural Support for Programming Languages and Operating Systems*   
+*ACM Conference on Architectural Support for Programming Languages and Operating Systems*
+[[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)
+
 
 ### ASPLOS'24a
 [**Plankton: Reconciling Binary Code and Debug Information**](https://5hadowblad3.github.io/files/asplos24-Plankton.pdf)   
