@@ -14,9 +14,10 @@ Welcome to Heqing Huang's homepage!
 I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/)! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. My research focuses on application security, especially leveraging program analysis techniques to ensure software security rigorously.
 Specifically, my research takes advantage of both static and dynamic program analysis techniques as complements to address deficiency problems in existing vulnerability detection methods, such as fuzzing (S&P'20, 22, 24ab, TDSC'23, FSE'21, ISSTA 21), symbolic analysis (ISSTA'20, OOPSLA'21, ASPLOS'24a), and memory sanitization (ASPLOS'24b). 
 
-**I am serving as the PC for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html). Look forward to seeing your submission!**
+**I am serving as the PC for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html) and [ISSTA 2025](https://conf.researchr.org/home/issta-2025). Look forward to seeing your submission!**
 
 * NEWS! 
+  <!-- * Recive [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan!  -->
   * Another [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submission gets conditional accepted! 
   * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
   * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
@@ -36,7 +37,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 Hao Ling, **Heqing Huang<sup>\*</sup>**, Chengpeng Wang, Yuandao Cai, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*
 [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)
-
+ <!-- <span style='color: red;'>**Best Paper Award**</span> -->
 
 ### ASPLOS'24a
 [**Plankton: Reconciling Binary Code and Debug Information**](https://5hadowblad3.github.io/files/asplos24-Plankton.pdf)   
