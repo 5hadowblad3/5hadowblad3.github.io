@@ -26,7 +26,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
   * Received Huawei distinguished collaborator award on deploying Pangolin ([S&P 2020](https://5hadowblad3.github.io/files/SP2020.pdf))!  
 
 
-**I am looking for multiple Ph.D. students and RAs! If you pursue making the program more secure and reliable, please feel free to send me an email!**
+**I am looking for multiple Ph.D. students and RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
 
 ## Publication
