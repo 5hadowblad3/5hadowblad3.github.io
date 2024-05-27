@@ -36,7 +36,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 ### ASPLOS'25
 [**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug 
-  Detection for Stripped Binaries**]()(To appear)
+  Detection for Stripped Binaries**]()(To appear)  
  Chengpeng Wang, Yuandao Cai, Anshunkang Zhou, **Heqing Huang**, Hao Ling, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*  
 
