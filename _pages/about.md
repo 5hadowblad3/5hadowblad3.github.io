@@ -73,7 +73,7 @@ Anshunkang Zhou, Chengfeng Ye, **Heqing Huang<sup>\*</sup>**, Yuandao Cai, Charl
 **Heqing Huang**, Yiyuan Guo, Qingkai Shi, Peisen Yao, Rongxin Wu, Charles Zhang.  
 *The 43rd IEEE Symposium on Security and Privacy*.
 [[Artifacts]](https://github.com/5hadowblad3/Beacon_artifact)  
- <span style='color: red;'>**Google Research Paper Award**</span>
+🏆 <span style='color: red;'>**Google Research Paper Award**</span>
 <!-- **[Acceptance rate: 24.5% (97/396)]** -->
 <!-- [[PDF]]()  [[bib]]()  [[Artifacts]]() -->
 <!-- [[PDF]](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)    -->
