@@ -19,7 +19,6 @@ Specifically, my research takes advantage of both static and dynamic program ana
 * NEWS! 
   * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission get accepted!
   * Receive [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulation, Hao!
-  <!-- * Another [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submission gets conditional accepted!  -->
   * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
   * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
   * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
@@ -40,7 +39,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 ### ASPLOS'25
 [**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug 
-  Detection for Stripped Binaries**]()(To appear)  
+  Detection for Stripped Binaries**]() (To appear)  
  Chengfeng Ye, Yuandao Cai, Anshunkang Zhou, **Heqing Huang**, Hao Ling, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*  
 
@@ -48,7 +47,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 [**GIANTSAN: Efficient Memory Sanitization with Segment Folding**](https://5hadowblad3.github.io/files/asplos24-GiantSan.pdf) [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)    
 Hao Ling, **Heqing Huang<sup>\*</sup>**, Chengpeng Wang, Yuandao Cai, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*  
-🏆 <span style='color: red;'>**Best Paper Award**</span>
+🏆 <span style='color: red;'>**ACM SIGPLAN Best Paper Award**</span>
 
 ### ASPLOS'24a
 [**Plankton: Reconciling Binary Code and Debug Information**](https://5hadowblad3.github.io/files/asplos24-Plankton.pdf)   
