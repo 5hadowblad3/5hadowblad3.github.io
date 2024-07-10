@@ -44,7 +44,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*  
 
 ### TSE'24
-[**Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events**]() (To appear)  
+[**Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events**]() (To appear)    
  Maryam Masoudian, **Heqing Huang**, Morteza Amini, Charles Zhang.  
 *IEEE Transactions on Software Engineering* 
 
