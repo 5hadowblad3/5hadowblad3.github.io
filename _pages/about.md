@@ -17,6 +17,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 **I am serving as the PC for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SETTA 2024](https://setta2024.cs.cityu.edu.hk). Look forward to seeing your submission!**
 
 * NEWS! 
+  * Our research on fuzzing Android application gets accepted on [TSE 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
   * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission get accepted!
   * Receive [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulation, Hao!
   * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
@@ -35,13 +36,17 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 ## Publication
 (* corresponding author)
-
+ 
 
 ### ASPLOS'25
-[**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug 
-  Detection for Stripped Binaries**]() (To appear)  
+[**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug Detection for Stripped Binaries**]() (To appear)  
  Chengfeng Ye, Yuandao Cai, Anshunkang Zhou, **Heqing Huang**, Hao Ling, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*  
+
+### TSE'24
+[**Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events**]() (To appear)  
+ Maryam Masoudian, **Heqing Huang**, Morteza Amini, Charles Zhang.  
+*IEEE Transactions on Software Engineering* 
 
 ### ASPLOS'24b
 [**GIANTSAN: Efficient Memory Sanitization with Segment Folding**](https://5hadowblad3.github.io/files/asplos24-GiantSan.pdf) [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)    
