@@ -19,7 +19,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 ### **NEWS!** 
  * Our work on fuzzing Android applications gets accepted at [TSE 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
  * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission gets accepted!
- * Receive [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulations, Hao!
+ * Received [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulations, Hao!
  * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
  * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
  * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
