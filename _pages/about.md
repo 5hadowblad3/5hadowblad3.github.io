@@ -17,14 +17,14 @@ Specifically, my research takes advantage of both static and dynamic program ana
 **I am serving as the PC for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SETTA 2024](https://setta2024.cs.cityu.edu.hk). Look forward to seeing your submission!**
 
 * NEWS! 
-  * Our research on fuzzing Android application gets accepted on [TSE 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
+  * Our research on fuzzing Android applications gets accepted on [TSE 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
   * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission gets accepted!
-  * Receive [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulation, Hao!
-  * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
-  * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
-  * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
-  * Received Google Research Paper award for our directed fuzzer published in [S&P 2022](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)!   
-  * Received Huawei distinguished collaborator award on deploying Pangolin ([S&P 2020](https://5hadowblad3.github.io/files/SP2020.pdf))!  
+ * Receive [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulations, Hao!
+ * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
+ * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
+ * Our multi-target directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html)!  
+ * Received Google Research Paper award for our directed fuzzer published in [S&P 2022](https://5hadowblad3.github.io/files/Oakland22-Beacon.pdf)!   
+ * Received Huawei distinguished collaborator award on deploying Pangolin ([S&P 2020](https://5hadowblad3.github.io/files/SP2020.pdf))!  
 
 
 **I am looking for multiple Ph.D. students and RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
