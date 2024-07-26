@@ -120,17 +120,17 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 ## Academic Service
 ### Chair
 * Publicity co-chair, [SPLASH 2025](https://2025.splashcon.org)
-* Program local co-chair, [SETTA'24](https://setta2024.cs.cityu.edu.hk/organization.php)
+* Program local co-chair, [SETTA 24](https://setta2024.cs.cityu.edu.hk/organization.php)
 
 ### Committe and Reviewer 
-* Program committee, [ISSTA'25](https://conf.researchr.org/home/issta-2025)
-* Program committee, [CCS'24](https://www.sigsac.org/ccs/CCS2024/home.html)
-* Program committee, [SANER'23 (Tool Track)](https://saner2023.must.edu.mo)
-* Reviewer, [TIFS'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)  
-* Reviewer, [TSE'23](https://www.computer.org/csdl/journal/ts)  
-* Reviewer, [TIFS'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
-* Reviewer, [TDSC'22](https://www.computer.org/csdl/journal/tq)
-* Reviewer, [TIFS'20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+* Program committee, [ISSTA 25](https://conf.researchr.org/home/issta-2025)
+* Program committee, [CCS 24](https://www.sigsac.org/ccs/CCS2024/home.html)
+* Program committee, [SANER 23 (Tool Track)](https://saner2023.must.edu.mo)
+* Reviewer, [TIFS 24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)  
+* Reviewer, [TSE 23](https://www.computer.org/csdl/journal/ts)  
+* Reviewer, [TIFS 23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+* Reviewer, [TDSC 22](https://www.computer.org/csdl/journal/tq)
+* Reviewer, [TIFS 20](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 
 ### Sub-/Co-reviewer
 * [PLDI'23](https://pldi23.sigplan.org)
