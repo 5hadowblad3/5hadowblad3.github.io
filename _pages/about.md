@@ -11,12 +11,13 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/)! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. My research focuses on application security, especially leveraging program analysis techniques to ensure software security rigorously.
+I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/)! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. My research focuses on software security, especially leveraging program analysis techniques to ensure software security rigorously.
 Specifically, my research takes advantage of both static and dynamic program analysis techniques as complements to address deficiency problems in existing vulnerability detection methods, such as fuzzing (S&P'20, 22, 24ab, TDSC'23, FSE'21, ISSTA 21), symbolic analysis (ISSTA'20, OOPSLA'21, ASPLOS'24a, ASPLOS'25), and memory sanitization (ASPLOS'24b). 
 
 **I am serving as the PC for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SPLASH 2025](https://2025.splashcon.org) and [SETTA 2024](https://setta2024.cs.cityu.edu.hk). Look forward to seeing your submission!**
 
 ### **NEWS!** 
+ * Entering the finale of DARPA AIxCC[https://aicyberchallenge.com]!
  * Our work on fuzzing Android applications gets accepted at [TSE 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
  * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission gets accepted!
  * Received [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulations, Hao!
@@ -33,6 +34,13 @@ Specifically, my research takes advantage of both static and dynamic program ana
   * ACM SIGPLAN Best Paper Award (ASPLOS), 2024
   * Google Research Paper Award, 2022
   * Huawei Distinguish Collaborator, 2021
+
+
+## Students
+  I am fortunate to work with the following students:  
+  * Shuo Yang (PhD, 2024-)
+  * Xiang Li (RA, 2024-)
+
 
 ## Publication
 (* corresponding author)
@@ -139,7 +147,9 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 * [ISSTA'19](https://conf.researchr.org/home/issta-2019) 
 * [ASE'18](http://www.ase2018.com)
 
+
 ## Teaching Service
+* CS2311 - Computer Programming (2024 Fall)
 * CS3402 - Database System (2024 Spring)
 
 ## Funding and Cooperation
@@ -150,3 +160,7 @@ We have thus received the **Huawei Distinguish Collaborator 2021** award! This i
 ## Bugs Hunting
 Our self-built fuzzing framework (Integration of S&P'20, 22, 24, TDSC'23) has discovered more than 1000 bugs in the widely-used commercial and open-source projects, with over 100 of them assigned with CVE IDs and over $10K bounties. A partial of vulnerabilities detected can be found [here](https://outstanding-hydrogen-2d1.notion.site/Trophies-aef45e1245a64528bd8ec111b475e03b).
 We also list the bugs found specifically for SMT theorem provers [here](https://smtfuzz.github.io).
+
+## Miscs
+  * [Tips on writting a research paper (Thomas Reps)](https://5hadowblad3.github.io/files/WritingResearchPapers.pptx)  
+  * [How to write a technical paper or a research paper (Michael Ernst)](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
