@@ -38,8 +38,8 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 ## Students
   I am fortunate to work with the following students:  
-  * Shuo Yang (PhD, 2024-)
-  * Xiang Li (RA, 2024-)
+  * Shuo Yang (PhD, 2024)
+  * Xiang Li (RA, 2024)
 
 
 ## Publication
