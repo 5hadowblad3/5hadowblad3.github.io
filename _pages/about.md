@@ -31,7 +31,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 **I am looking for multiple Ph.D. students and RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
 ## Award
-  * ACM SIGPLAN Best Paper Award (ASPLOS), 2024
+  * ACM SIGARCH Best Paper Award (ASPLOS), 2024
   * Google Research Paper Award, 2022
   * Huawei Distinguish Collaborator, 2021
 
