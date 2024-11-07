@@ -14,7 +14,7 @@ Welcome to Heqing Huang's homepage!
 I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/)! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. My research focuses on software security, especially leveraging program analysis techniques to ensure software security rigorously.
 Specifically, my research takes advantage of both static and dynamic program analysis techniques as complements to address deficiency problems in existing vulnerability detection methods, such as fuzzing (S&P'20, 22, 24ab, TDSC'23, FSE'21, ISSTA 21), symbolic analysis (ISSTA'20, OOPSLA'21, ASPLOS'24a, ASPLOS'25), and memory sanitization (ASPLOS'24b). 
 
-**I am serving as the PC for [CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SPLASH 2025](https://2025.splashcon.org) and [SETTA 2024](https://setta2024.cs.cityu.edu.hk). Look forward to seeing your submission!**
+**I am serving as the PC for [CCS 2025](https://www.sigsac.org/ccs/CCS2025/), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SPLASH 2025](https://2025.splashcon.org) and [SETTA 2024](https://setta2024.cs.cityu.edu.hk). Look forward to seeing your submission!**
 
 ### **NEWS!** 
  * Entering the finale of [DARPA AIxCC](https://aicyberchallenge.com)!
@@ -131,6 +131,7 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 * Program local co-chair, [SETTA 24](https://setta2024.cs.cityu.edu.hk/organization.php)
 
 ### Committe and Reviewer 
+* Program committee, [CCS 25](https://www.sigsac.org/ccs/CCS2025/)
 * Program committee, [ISSTA 25](https://conf.researchr.org/home/issta-2025)
 * Program committee, [CCS 24](https://www.sigsac.org/ccs/CCS2024/home.html)
 * Program committee, [SANER 23 (Tool Track)](https://saner2023.must.edu.mo)
