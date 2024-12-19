@@ -63,7 +63,7 @@ Lili Wei, **Heqing Huang**, Shing-Chi Cheung, Kevin Li.
  Chengfeng Ye, Yuandao Cai, Anshunkang Zhou, **Heqing Huang**, Hao Ling, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*  
 
-### TSE
+### TSE'24
 [**Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events**](https://ieeexplore.ieee.org/document/10599338)    
  Maryam Masoudian, **Heqing Huang<sup>\*</sup>**, Morteza Amini, Charles Zhang.  
 *IEEE Transactions on Software Engineering* 
