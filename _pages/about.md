@@ -19,7 +19,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 ### **NEWS!** 
  * Our study for Android APP token privacy issues has been accepted in [EMSE 25](https://link.springer.com/journal/10664)!
  * Our extension paper on Android testing gets accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)!
- * Entering the finale of [DARPA AIxCC](https://aicyberchallenge.com)!
+ * Entering the finale of [DARPA AIxCC](https://aicyberchallenge.com)! All you need is a fuzzing brain!
  * Our work on fuzzing Android applications gets accepted at [TSE 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
  * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission gets accepted!
  * Received [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulations, Hao!
@@ -33,6 +33,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 **I am looking for multiple Ph.D. students and RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
 ## Award
+  * Finalist of [DARPA AIxCC](https://aicyberchallenge.com), 2024
   * ACM SIGARCH Best Paper Award (ASPLOS), 2024
   * Google Research Paper Award, 2022
   * Huawei Distinguish Collaborator, 2021
