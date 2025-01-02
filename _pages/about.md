@@ -50,7 +50,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 ### EMSE'25  
 [**How Far are App Secrets from Being Stolen? A Case Study on Android**]() (To appear)         
-Lili Wei, **Heqing Huang**, Shing-Chi Cheung, Kevin Li.    
+Lili Wei<sup>\*</sup>, **Heqing Huang<sup>\*</sup>**, Shing-Chi Cheung, Kevin Li.    
 *Empirical Software Engineering*   
 
 
