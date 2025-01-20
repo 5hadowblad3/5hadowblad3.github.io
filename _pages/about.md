@@ -16,7 +16,8 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 **I am serving as the PC for [CCS 2025](https://www.sigsac.org/ccs/CCS2025/), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SPLASH 2025](https://2025.splashcon.org). Look forward to seeing your submission!**
 
-### **NEWS!** 
+### **NEWS!**
+ * Our paper on decoupling sanitizer from fuzzing gets accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)! 
  * Our study for Android APP token privacy issues has been accepted in [EMSE 25](https://link.springer.com/journal/10664)!
  * Our extension paper on Android testing gets accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)!
  * Entering the finale of [DARPA AIxCC](https://aicyberchallenge.com)! All you need is a fuzzing brain!
@@ -48,16 +49,21 @@ Specifically, my research takes advantage of both static and dynamic program ana
 ## Publication
 (* corresponding author)
 
-### EMSE'25  
-[**How Far are App Secrets from Being Stolen? A Case Study on Android**]() (To appear)         
-Lili Wei<sup>\*</sup>, **Heqing Huang<sup>\*</sup>**, Shing-Chi Cheung, Kevin Li.    
-*Empirical Software Engineering*   
+### ICSE'25
+[**SAND: Decoupling Sanitization from Fuzzing for Low Overhead**]() (To appear) 
+Ziqiao Kong, Shaohua Li, **Heqing Huang**, Zhendong Su 
+*IEEE/ACM International Conference on Software Engineering*  
 
 
 ### ICSE'25
 [**Mole: Efficient Crash Reproduction in Android Applications With Enforcing Necessary UI Events**]() (To appear)  
- Maryam Masoudian, **Heqing Huang<sup>\*</sup>**, Morteza Amini, Charles Zhang.  
+Maryam Masoudian, **Heqing Huang<sup>\*</sup>**, Morteza Amini, Charles Zhang.  
 *IEEE/ACM International Conference on Software Engineering, Journal-First*  
+
+### EMSE'25  
+[**How Far are App Secrets from Being Stolen? A Case Study on Android**]() (To appear)         
+Lili Wei<sup>\*</sup>, **Heqing Huang<sup>\*</sup>**, Shing-Chi Cheung, Kevin Li.    
+*Empirical Software Engineering*   
 
 ### ASPLOS'25
 [**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug Detection for Stripped Binaries**]() (To appear)  
