@@ -50,9 +50,9 @@ Specifically, my research takes advantage of both static and dynamic program ana
 (* corresponding author)
 
 ### ICSE'25
-[**SAND: Decoupling Sanitization from Fuzzing for Low Overhead**]() (To appear) 
-Ziqiao Kong, Shaohua Li, **Heqing Huang**, Zhendong Su 
-*IEEE/ACM International Conference on Software Engineering*  
+[**SAND: Decoupling Sanitization from Fuzzing for Low Overhead**]() (To appear)   
+Ziqiao Kong, Shaohua Li, **Heqing Huang**, Zhendong Su   
+*IEEE/ACM International Conference on Software Engineering*    
 
 
 ### ICSE'25
