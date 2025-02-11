@@ -125,7 +125,7 @@ Peisen Yao, **Heqing Huang<sup>\*</sup>**, Wensheng Tang, Qingkai Shi, Rongxin W
 
 
 ### ISSTA'21 
-[**Fuzzing SMT Solvers via Two-Dimentional Input Space Exploration**](https://5hadowblad3.github.io/files/ISSTA20201.pdf)  
+[**Fuzzing SMT Solvers via Two-Dimensional Input Space Exploration**](https://5hadowblad3.github.io/files/ISSTA20201.pdf)  
 Peisen Yao, **Heqing Huang**, Wensheng Tang, Qingkai Shi, Rongxin Wu, Charles Zhang.  
 *The 30th ACM SIGSOFT International Symposium on Software Testing and Analysis*.
 
