@@ -52,7 +52,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 ### ISSTA'25 
 [**KRAKEN: Program-Adaptive Parallel Fuzzing**]() (To appear)    
-Anshunkang Zhou, **Heqing Huang**, Charles Zhang.    
+Anshunkang Zhou, **Heqing Huang<sup>\*</sup>**, Charles Zhang.    
 *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis*.   
 
 
