@@ -17,14 +17,14 @@ Specifically, my research takes advantage of both static and dynamic program ana
 **I am serving as the PC for [CCS 2025](https://www.sigsac.org/ccs/CCS2025/), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SPLASH 2025](https://2025.splashcon.org). Look forward to seeing your submission!**
 
 ### **NEWS!**
- * Our paper on optimize fuzzing with a fine-grain scheduling gets accepted in [TOSEM](https://dl.acm.org/journal/tosem)! 
- * Our paper on parallel fuzzing gets accepted in [ISSTA 25](https://conf.researchr.org/home/issta-2025)! 
- * Our paper on decoupling sanitizers from fuzzing gets accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)! 
+ * Our paper on optimizing fuzzing with fine-grained scheduling feedback is accepted in [TOSEM](https://dl.acm.org/journal/tosem)! 
+ * Our paper on parallel fuzzing is accepted in [ISSTA 25](https://conf.researchr.org/home/issta-2025)! 
+ * Our paper on decoupling sanitizers from fuzzing is accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)! 
  * Our study for Android APP token privacy leakage issues has been accepted in [EMSE 25](https://link.springer.com/journal/10664)!
- * Our extension paper on Android testing gets accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)!
+ * Our extension paper on Android testing is accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)!
  * Entering the finale of [DARPA AIxCC](https://aicyberchallenge.com)! All you need is a fuzzing brain!
- * Our work on fuzzing Android applications gets accepted at [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
- * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission gets accepted!
+ * Our work on fuzzing Android applications is accepted at [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
+ * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission is accepted!
  * Received [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulations, Hao!
  * Two [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) submissions get accepted!
  * Another directed fuzzing work has been accepted by [S&P 2024](https://www.ieee-security.org/TC/SP2024/index.html) (again)!
