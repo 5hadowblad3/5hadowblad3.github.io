@@ -53,7 +53,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 (* corresponding author)
 
 ### TOCS'25
-[**GIANTSAN: GiantSan: Efficient Operation-Level Memory Sanitization with Segment Folding**]() [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)    
+[**GIANTSAN: Efficient Operation-Level Memory Sanitization with Segment Folding**]() [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)    
 Hao Ling, **Heqing Huang<sup>\*</sup>**, Chengpeng Wang, Yuandao Cai, Charles Zhang.   
 *ACM Transactions on Computer Systems*  
 
