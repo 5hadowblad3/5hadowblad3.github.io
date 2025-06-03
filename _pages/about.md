@@ -17,7 +17,8 @@ Specifically, my research takes advantage of both static and dynamic program ana
 **I am serving as the PC for [CCS 2025](https://www.sigsac.org/ccs/CCS2025/), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SPLASH 2025](https://2025.splashcon.org). Look forward to seeing your submission!**
 
 ### **NEWS!**
- * Our paper on optimizing fuzzing with fine-grained scheduling feedback is accepted in [TOSEM](https://dl.acm.org/journal/tosem)! 
+ * Our extension paper of GiantSan (ASPLOS'24 Best Paper) is accepted in top system journal [TOCS](https://dl.acm.org/journal/tocs) for less instrumentation overhead!  
+ * Our paper on optimizing fuzzing with fine-grained scheduling feedback is accepted in [TOSEM](https://dl.acm.org/journal/tosem)!  
  * Our paper on parallel fuzzing is accepted in [ISSTA 25](https://conf.researchr.org/home/issta-2025)! 
  * Our paper on decoupling sanitizers from fuzzing is accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)! 
  * Our study for Android APP token privacy leakage issues has been accepted in [EMSE 25](https://link.springer.com/journal/10664)!
@@ -50,6 +51,12 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 ## Publication
 (* corresponding author)
+
+### ASPLOS'24b
+[**GIANTSAN: GiantSan: Efficient Operation-Level Memory Sanitization with Segment Folding**]() [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)    
+Hao Ling, **Heqing Huang<sup>\*</sup>**, Chengpeng Wang, Yuandao Cai, Charles Zhang.   
+*ACM Transactions on Computer Systems*  
+
 
 ### TOSEM'25
 [**Efficient Fuzzing Infrastructure for Pointer-to-Object Association**]() (To appear)    
