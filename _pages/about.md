@@ -17,7 +17,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 **I am serving as the PC for [CCS 2025](https://www.sigsac.org/ccs/CCS2025/), [ISSTA 2025](https://conf.researchr.org/home/issta-2025), as well as co-chairing [SPLASH 2025](https://2025.splashcon.org). Look forward to seeing your submission!**
 
 ### **NEWS!**
- * Our extension paper of GiantSan (ASPLOS'24 Best Paper) is accepted in top system journal [TOCS](https://dl.acm.org/journal/tocs) for less instrumentation overhead!  
+ * Our extension paper of GiantSan (ASPLOS'24 Best Paper) is accepted in [TOCS](https://dl.acm.org/journal/tocs) for less instrumentation overhead!  
  * Our paper on optimizing fuzzing with fine-grained scheduling feedback is accepted in [TOSEM](https://dl.acm.org/journal/tosem)!  
  * Our paper on parallel fuzzing is accepted in [ISSTA 25](https://conf.researchr.org/home/issta-2025)! 
  * Our paper on decoupling sanitizers from fuzzing is accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)! 
