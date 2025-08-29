@@ -42,9 +42,11 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 
 ## Students
-  I am fortunate to work with the following students:  
-  * Shuo Yang (PhD, 2024)
-  * Xiang Li (RA, 2024)
+  I am fortunate to work with the following students: 
+  * Zirui Lin (PhD, 2025)    
+  * Haoyu Zhang (PhD, 2025, co-supervised with SLAI)   
+  * Shuo Yang (PhD, 2024)   
+  * Xiang Li (RA, 2024)  
 
 
 ## Publication
