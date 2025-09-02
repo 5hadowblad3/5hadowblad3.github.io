@@ -53,47 +53,47 @@ Specifically, my research takes advantage of both static and dynamic program ana
 (* corresponding author)
 
 ### TOCS'25
-[**GIANTSAN: Efficient Operation-Level Memory Sanitization with Segment Folding**]() [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)    
+[**GIANTSAN: Efficient Operation-Level Memory Sanitization with Segment Folding**](https://dl.acm.org/doi/10.1145/3742426) [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)    
 Hao Ling, **Heqing Huang<sup>\*</sup>**, Chengpeng Wang, Yuandao Cai, Charles Zhang.   
 *ACM Transactions on Computer Systems*  
 
 
 ### TOSEM'25
-[**Efficient Fuzzing Infrastructure for Pointer-to-Object Association**]() (To appear)    
+[**Efficient Fuzzing Infrastructure for Pointer-to-Object Association**](https://www.google.com/search?client=safari&rls=en&q=Efficient+Fuzzing+Infrastructure+for+Pointer-to-Object+Association&ie=UTF-8&oe=UTF-8)     
 Hao Ling, **Heqing Huang<sup>\*</sup>**, Yuandao Cai, Charles Zhang.    
 *ACM Transactions on Software Engineering and Methodology*    
 
 
 ### ISSTA'25 
-[**KRAKEN: Program-Adaptive Parallel Fuzzing**]() (To appear)    
+[**KRAKEN: Program-Adaptive Parallel Fuzzing**](https://dl.acm.org/doi/10.1145/3728882)   
 Anshunkang Zhou, **Heqing Huang<sup>\*</sup>**, Charles Zhang.    
 *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis*.   
 
 
 ### ICSE'25
-[**SAND: Decoupling Sanitization from Fuzzing for Low Overhead**]() (To appear)  
+[**SAND: Decoupling Sanitization from Fuzzing for Low Overhead**](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/227/SAND-Decoupling-Sanitization-from-Fuzzing-for-Low-Overhead) 
 Ziqiao Kong#, Shaohua Li#, **Heqing Huang**, Zhendong Su (#Equal Contribution)    
 *IEEE/ACM International Conference on Software Engineering*      
 
 
 ### ICSE'25
-[**Mole: Efficient Crash Reproduction in Android Applications With Enforcing Necessary UI Events**]() (To appear)  
-Maryam Masoudian, **Heqing Huang<sup>\*</sup>**, Morteza Amini, Charles Zhang.  
+[**Mole: Efficient Crash Reproduction in Android Applications With Enforcing Necessary UI Events**](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/29/Mole-Efficient-Crash-Reproduction-in-Android-Applications-With-Enforcing-Necessary-U)  
+Maryam Masoudian, **Heqing Huang**, Morteza Amini, Charles Zhang.  
 *IEEE/ACM International Conference on Software Engineering, Journal-First*  
 
 ### EMSE'25  
-[**How Far are App Secrets from Being Stolen? A Case Study on Android**]() (To appear)         
+[**How Far are App Secrets from Being Stolen? A Case Study on Android**](https://dl.acm.org/doi/10.1007/s10664-024-10607-9)         
 Lili Wei<sup>\*</sup>, **Heqing Huang<sup>\*</sup>**, Shing-Chi Cheung, Kevin Li.    
 *Empirical Software Engineering*   
 
-### ASPLOS'25
-[**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug Detection for Stripped Binaries**]() (To appear)  
+### ASPLOS'24
+[**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug Detection for Stripped Binaries**](https://dl.acm.org/doi/10.1145/3622781.3674177) 
 Chengfeng Ye, Yuandao Cai, Anshunkang Zhou, **Heqing Huang**, Hao Ling, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*  
 
 ### TSE'24
 [**Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events**](https://ieeexplore.ieee.org/document/10599338)    
- Maryam Masoudian, **Heqing Huang<sup>\*</sup>**, Morteza Amini, Charles Zhang.  
+ Maryam Masoudian, **Heqing Huang**, Morteza Amini, Charles Zhang.  
 *IEEE Transactions on Software Engineering* 
 
 ### ASPLOS'24b
