@@ -87,7 +87,7 @@ Lili Wei<sup>\*</sup>, **Heqing Huang<sup>\*</sup>**, Shing-Chi Cheung, Kevin Li
 *Empirical Software Engineering*   
 
 ### ASPLOS'24
-[**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug Detection for Stripped Binaries**](https://dl.acm.org/doi/10.1145/3622781.3674177) 
+[**Manta: Hybrid-Sensitive Type Inference Toward Type-Assisted Bug Detection for Stripped Binaries**](https://dl.acm.org/doi/10.1145/3622781.3674177)   
 Chengfeng Ye, Yuandao Cai, Anshunkang Zhou, **Heqing Huang**, Hao Ling, Charles Zhang.  
 *ACM Conference on Architectural Support for Programming Languages and Operating Systems*  
 
