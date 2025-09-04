@@ -71,7 +71,7 @@ Anshunkang Zhou, **Heqing Huang<sup>\*</sup>**, Charles Zhang.
 
 
 ### ICSE'25
-[**SAND: Decoupling Sanitization from Fuzzing for Low Overhead**](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/227/SAND-Decoupling-Sanitization-from-Fuzzing-for-Low-Overhead) 
+[**SAND: Decoupling Sanitization from Fuzzing for Low Overhead**](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/227/SAND-Decoupling-Sanitization-from-Fuzzing-for-Low-Overhead)   
 Ziqiao Kong#, Shaohua Li#, **Heqing Huang**, Zhendong Su (#Equal Contribution)    
 *IEEE/ACM International Conference on Software Engineering*      
 
