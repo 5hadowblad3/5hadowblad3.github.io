@@ -15,6 +15,7 @@ I am an assistant professor at the Department of Computer Science, [City Univers
 Specifically, my research takes advantage of both static and dynamic program analysis techniques as complements to address deficiency problems in existing vulnerability detection methods, such as fuzzing (S&P'20, 22, 24ab, TDSC'23, FSE'21, ISSTA 21), symbolic analysis (ISSTA'20, OOPSLA'21, ASPLOS'24a, ASPLOS'25), and memory sanitization (ASPLOS'24b). 
 
 ### **NEWS!**
+ * Our paper on studying the challenges of applying LLM for software vulnerability detection has been accepted in [CSUR](https://dl.acm.org/journal/csur)！
  * Our extension paper of GiantSan (ASPLOS'24 Best Paper) is accepted in [TOCS](https://dl.acm.org/journal/tocs) for less instrumentation overhead!  
  * Our paper on optimizing fuzzing with fine-grained scheduling feedback is accepted in [TOSEM](https://dl.acm.org/journal/tosem)!  
  * Our paper on parallel fuzzing is accepted in [ISSTA 25](https://conf.researchr.org/home/issta-2025)! 
@@ -51,6 +52,12 @@ Specifically, my research takes advantage of both static and dynamic program ana
 
 ## Publication
 (* corresponding author)
+
+### CSUR‘25
+[**LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights**]()(To appear)    
+Ze Sheng, Zhicheng Chen, Shuning Gu, **Heqing Huang**, Guofei Gu, Jeff Huang.      
+*ACM Computing Surveys*    
+
 
 ### TOCS'25
 [**GIANTSAN: Efficient Operation-Level Memory Sanitization with Segment Folding**](https://dl.acm.org/doi/10.1145/3742426) [[Artifacts]](https://github.com/5hadowblad3/GiantSan-Artifact)    
