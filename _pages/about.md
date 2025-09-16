@@ -54,7 +54,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
 (* corresponding author)
 
 ### CSUR‘25
-[**LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights**]()(To appear)    
+[**LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights**](https://arxiv.org/abs/2502.07049)    
 Ze Sheng, Zhicheng Chen, Shuning Gu, **Heqing Huang**, Guofei Gu, Jeff Huang.      
 *ACM Computing Surveys*    
 
