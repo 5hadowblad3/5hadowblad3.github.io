@@ -178,6 +178,7 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 * Program local co-chair, [SETTA 24](https://setta2024.cs.cityu.edu.hk/organization.php)
 
 ### Committe and Reviewer 
+* Program committee, [CCS 26]()
 * Program committee, [CCS 25](https://www.sigsac.org/ccs/CCS2025/)
 * Program committee, [ISSTA 25](https://conf.researchr.org/home/issta-2025)
 * Program committee, [CCS 24](https://www.sigsac.org/ccs/CCS2024/home.html)
