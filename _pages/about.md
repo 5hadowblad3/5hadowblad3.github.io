@@ -47,7 +47,7 @@ Specifically, my research takes advantage of both static and dynamic program ana
   I am fortunate to work with the following students: 
   * Zirui Lin (PhD, 2025)    
   * Haoyu Zhang (PhD, 2025, co-supervised with SLAI)   
-  * Weiwei Fu (PhD, 2024, co-supervised)
+  * Weiwei Fu (PhD, 2024, co-supervision)
   * Shuo Yang (PhD, 2024)   
   * Xiang Li (RA, 2024)  
 
