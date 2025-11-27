@@ -16,8 +16,8 @@ I am an assistant professor at the Department of Computer Science, [City Univers
 My research focuses on software security, especially leveraging program analysis techniques to ensure software security rigorously.
 Specifically, my primary goal is to address the deficiencies in existing security analysis for diverse software systems by understanding program semantics. Hence, there are two main divisions of my research currently:
 
-1. Enhancing the fundamental program analysis algorithm.
-2. Exploring the code representation/security specification in diverse scenarios.
+1. Enhancing the fundamental program analysis algorithm.  
+2. Exploring the code representation/security specification in diverse scenarios.  
 
 ### **NEWS!**
  * Our paper on detecting false negative vulnerabilities on autonomous driving simulators has been accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
