@@ -14,7 +14,7 @@ Welcome to Heqing Huang's homepage!
 I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/)! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. 
 
 My research focuses on software security, especially leveraging program analysis techniques to ensure software security rigorously.
-Specifically, my primary goal is to address the deficiencies in existing security analysis for diverse software systems by understanding program semantics. Hence, there are two main divisions of my research currently:
+My primary goal is to address the deficiencies in existing security analysis for diverse software systems by understanding program semantics. Hence, there are two main divisions of my research currently:
 
 1. Enhancing the fundamental program analysis algorithm.  
 2. Exploring the code representation/security specification in diverse scenarios.  
