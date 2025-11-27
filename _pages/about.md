@@ -11,8 +11,13 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/)! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. My research focuses on software security, especially leveraging program analysis techniques to ensure software security rigorously.
-Specifically, my research takes advantage of both static and dynamic program analysis techniques as complements to address deficiency problems in existing vulnerability detection methods, such as fuzzing (S&P'20, 22, 24ab, TDSC'23, FSE'21, ISSTA 21), symbolic analysis (ISSTA'20, OOPSLA'21, ASPLOS'24a, ASPLOS'25), and memory sanitization (ASPLOS'24b). 
+I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/)! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. 
+
+My research focuses on software security, especially leveraging program analysis techniques to ensure software security rigorously.
+Specifically, my primary goal is to address the deficiencies in existing security analysis for diverse software systems by understanding program semantics. Hence, there are two main divisions of my research currently:
+
+1. Enhancing the fundamental program analysis algorithm.
+2. Exploring the code representation/security specification in diverse scenarios.
 
 ### **NEWS!**
  * Our paper on detecting false negative vulnerabilities on autonomous driving simulators has been accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
