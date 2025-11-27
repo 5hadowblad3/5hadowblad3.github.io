@@ -19,6 +19,8 @@ My primary goal is to address the deficiencies in existing security analysis for
 1. Enhancing the fundamental program analysis algorithm.  
 2. Exploring the code representation/security specification in diverse scenarios.  
 
+**I am looking for multiple Ph.D. and MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
+
 ### **NEWS!**
  * Our paper on detecting false negative vulnerabilities on autonomous driving simulators has been accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
  * Our paper on studying the challenges of applying LLM for software vulnerability detection has been accepted in [CSUR](https://dl.acm.org/journal/csur)！
@@ -39,7 +41,7 @@ My primary goal is to address the deficiencies in existing security analysis for
  * Received Huawei distinguished collaborator award on deploying Pangolin ([S&P 2020](https://5hadowblad3.github.io/files/SP2020.pdf))!  
 
 
-**I am looking for multiple Ph.D. and MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
+
 
 ## Award
   * Finalist of [DARPA AIxCC](https://aicyberchallenge.com), 2024
