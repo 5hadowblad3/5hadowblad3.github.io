@@ -11,13 +11,13 @@ redirect_from:
 
 Welcome to Heqing Huang's homepage!
 
-I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/)! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. 
+I am an assistant professor at the Department of Computer Science, [City University of Hong Kong](https://www.cityu.edu.hk/) since 2024! Previously, I was a postdoc research fellow in the [AST Lab](https://ast.ethz.ch) at ETH Zurich, advised by [Prof. Zhendong Su](https://people.inf.ethz.ch/suz/). I am also fortunate to obtain my Ph.D. supervised by [Prof. Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) at the Hong Kong University of Science and Technology. 
 
-My research focuses on software security, especially leveraging program analysis techniques to ensure software security rigorously.
-My primary goal is to address the deficiencies in existing security analysis for diverse software systems by understanding complex program semantics. Hence, there are two main divisions of my research currently:
+My research focuses on software security, particularly leveraging program analysis techniques to ensure rigorous software security.
+My primary goal is to address the deficiencies in existing security analysis for diverse software systems by understanding the complex semantics of programs. Hence, there are two main divisions of my research currently:
 
-1. Enhancing the fundamental program analysis algorithm.  
-2. Exploring the code representation/security specification in diverse scenarios.  
+1. Enhancing the fundamental program analysis algorithms.  
+2. Exploring the code semantic representation/security specification in diverse scenarios.  
 
 **I am looking for multiple Ph.D. and MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
