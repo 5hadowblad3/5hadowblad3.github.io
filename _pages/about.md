@@ -83,13 +83,13 @@ Hao Ling, **Heqing Huang<sup>\*</sup>**, Chengpeng Wang, Yuandao Cai, Charles Zh
 
 
 ### TOSEM'25
-[**Efficient Fuzzing Infrastructure for Pointer-to-Object Association**](https://www.google.com/search?client=safari&rls=en&q=Efficient+Fuzzing+Infrastructure+for+Pointer-to-Object+Association&ie=UTF-8&oe=UTF-8)     
+[**Efficient Fuzzing Infrastructure for Pointer-to-Object Association**](https://dl.acm.org/doi/10.1145/3730580)     
 Hao Ling, **Heqing Huang<sup>\*</sup>**, Yuandao Cai, Charles Zhang.    
 *ACM Transactions on Software Engineering and Methodology*    
 
 
 ### ISSTA'25 
-[**KRAKEN: Program-Adaptive Parallel Fuzzing**](https://dl.acm.org/doi/10.1145/3728882)   
+[**KRAKEN: Program-Adaptive Parallel Fuzzing**](https://dl.acm.org/doi/10.1145/3728882)  [[Artifacts]](https://github.com/seviezhou/Kraken)     
 Anshunkang Zhou, **Heqing Huang<sup>\*</sup>**, Charles Zhang.    
 *The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis*.   
 
