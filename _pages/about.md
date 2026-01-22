@@ -44,11 +44,11 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 
 ## Award
-  * 4th place of [DARPA AIxCC](https://aicyberchallenge.com), 2025
-  * Finalist of [DARPA AIxCC](https://aicyberchallenge.com), 2024
-  * ACM SIGARCH Best Paper Award (ASPLOS), 2024
-  * Google Research Paper Award, 2022
-  * Huawei Distinguish Collaborator, 2021
+  * 4th place of [DARPA AIxCC](https://aicyberchallenge.com), 2025    
+  * Finalist of [DARPA AIxCC](https://aicyberchallenge.com), 2024  
+  * ACM SIGARCH Best Paper Award (ASPLOS), 2024   
+  * Google Research Paper Award, 2022   
+  * Huawei Distinguish Collaborator, 2021  
 
 
 ## Students
