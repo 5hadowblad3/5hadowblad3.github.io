@@ -16,8 +16,8 @@ I am an assistant professor at the Department of Computer Science, [City Univers
 My research focuses on software security, particularly leveraging program analysis techniques to ensure rigorous software security.
 My primary goal is to address the deficiencies in existing security analysis for diverse software systems by understanding the complex semantics of programs. Hence, there are two main divisions of my research currently:
 
-1. Enhancing the fundamental program analysis algorithms.  
-2. Exploring the code semantic representation/security specification in diverse scenarios.  
+1. Enhancing fundamental program analysis algorithms.  
+2. Exploring code semantic representation/security specifications in diverse scenarios.  
 
 **I am looking for multiple Ph.D. and MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
