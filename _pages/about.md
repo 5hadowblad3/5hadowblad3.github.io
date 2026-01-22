@@ -53,11 +53,11 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 ## Students
   I am fortunate to work with the following students: 
-  * Zirui Lin (PhD, 2025)    
-  * Haoyu Zhang (PhD, 2025, co-supervised with SLAI)   
-  * Weiwei Fu (PhD, 2024, co-supervision)
   * Shuo Yang (PhD, 2024)   
   * Xiang Li (RA, 2024)  
+  * Weiwei Fu (PhD, 2024, co-supervision) 
+  * Haoyu Zhang (PhD, 2025, co-supervised with SLAI) 
+  * Zirui Lin (PhD, 2025)  
 
 
 ## Publication
