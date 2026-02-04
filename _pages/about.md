@@ -19,7 +19,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 1. Enhancing fundamental program analysis algorithms.  
 2. Exploring code semantic representation/security specifications in diverse scenarios.  
 
-**I am looking for Postdoc, Ph.D, and MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
+**I am looking for Postdoc, Ph.D, MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
 ### **NEWS!**
  * Our paper on detecting false negative vulnerabilities on autonomous driving simulators has been accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
@@ -64,10 +64,10 @@ My primary goal is to address the deficiencies in existing security analysis for
 (* corresponding author)
 
 ### TDSC'25
-[**ICSFuzz: Collision Detector Bug Discovery in Autonomous Driving Simulators**]()(To appear)   
+[**ICSFuzz: Collision Detector Bug Discovery in Autonomous Driving Simulators**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11231334)  
 Weiwei Fu, **Heqing Huang<sup>\*</sup>**, Yifan Zhang, Ke Zhang, Jin Huang, Weibin Lee, Jianping Wang.  
 *IEEE Transactions on Dependable and Secure Computing*.
-[[Artifacts]]()
+[[Artifacts]](https://aoooooa.github.io/ICSFuzz_.github.io/)
 
 
 
