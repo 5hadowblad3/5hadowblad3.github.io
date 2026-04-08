@@ -66,7 +66,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 
 ### ACL'26
-[**When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents,**] (To appear)    
+**When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents** (To appear)    
 Liang-Bo Ning, Yuchen Zhu, **Heqing HUANG**, Xin Wang, Yi Chang, Li Qing, Wenqi Fan    
 *The 64th Annual Meeting of the Association for Computational Linguistics*.  
 
