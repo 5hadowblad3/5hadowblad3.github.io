@@ -17,11 +17,12 @@ My research focuses on software security, particularly leveraging program analys
 My primary goal is to address the deficiencies in existing security analysis for diverse software systems by understanding the complex semantics of programs. Hence, there are two main divisions of my research currently:
 
 1. Enhancing fundamental program analysis algorithms.  
-2. Exploring code semantic representation/security specifications in diverse scenarios.  
+2. Exploring code semantic representation/security specifications in diverse scenarios (e.g., AI, Blockchain, Kernel).  
 
 **I am looking for Postdoc, Ph.D, MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
 ### **NEWS!**
+ * Our paper on defining a new type of performance vulnerability in AI agents has been accepted in [ACL](https://2026.aclweb.org) main track!
  * Our paper on detecting false negative vulnerabilities on autonomous driving simulators has been accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
  * Our paper on studying the challenges of applying LLM for software vulnerability detection has been accepted in [CSUR](https://dl.acm.org/journal/csur)！
  * Our extension paper of GiantSan (ASPLOS'24 Best Paper) is accepted in [TOCS](https://dl.acm.org/journal/tocs) for less instrumentation overhead!  
@@ -62,6 +63,13 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 ## Publication
 (* corresponding author)
+
+
+### ACL'26
+[**When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents,**](To appear)    
+Liang-Bo Ning, Yuchen Zhu, **Heqing HUANG**, Xin Wang, Yi Chang, Li Qing, Wenqi Fan    
+*IEEE Transactions on Dependable and Secure Computing*.  
+
 
 ### TDSC'25
 [**ICSFuzz: Collision Detector Bug Discovery in Autonomous Driving Simulators**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11231334)  
