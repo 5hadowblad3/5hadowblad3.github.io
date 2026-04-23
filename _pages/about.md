@@ -31,7 +31,7 @@ My primary goal is to address the deficiencies in existing security analysis for
  * Our paper on decoupling sanitizers from fuzzing is accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)! 
  * Our study for Android APP token privacy leakage issues has been accepted in [EMSE 25](https://link.springer.com/journal/10664)!
  * Our extension paper on Android testing is accepted in [ICSE 25](https://conf.researchr.org/home/icse-2025)!
- * Entering the finale of [DARPA AIxCC](https://aicyberchallenge.com)! All you need is a fuzzing brain!
+ * Entering the finale of [DARPA AIxCC](https://aicyberchallenge.com)! [All you need is a fuzzing brain](https://arxiv.org/abs/2509.07225)!
  * Our work on fuzzing Android applications is accepted at [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!
  * One [ASPLOS 2025](https://www.asplos-conference.org/asplos2025/) submission is accepted!
  * Received [ASPLOS 2024](https://www.asplos-conference.org/asplos2024/) Best Paper Award for GiantSan! Congratulations, Hao!
