@@ -71,6 +71,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 Yiru Zhao, Aorui Zhang, Xiaoke Wang, Aoshuang Ye, Benxiao Tang, Jinxin Ma, Lei Zhao, **Heqing HUANG<sup>\*</sup>**    
 *The 33rd ACM Conference on Computer and Communications Security*.  
 
+
 ### ACL'26
 **When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents** (To appear)    
 Liang-Bo Ning, Yuchen Zhu, **Heqing HUANG**, Xin Wang, Yi Chang, Li Qing, Wenqi Fan    
