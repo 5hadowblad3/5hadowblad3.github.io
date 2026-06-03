@@ -22,6 +22,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 **I am looking for Postdoc, Ph.D, MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
 ### **NEWS!**
+ * Our paper on designing fine-grained feedback considering bug triage for fuzzing has been accepted in [CCS 26](https://www.sigsac.org/ccs/CCS2026/)!
  * Our paper on defining a new type of performance vulnerability in AI agents has been accepted in [ACL](https://2026.aclweb.org) main track!
  * Our paper on detecting false negative vulnerabilities on autonomous driving simulators has been accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
  * Our paper on studying the challenges of applying LLM for software vulnerability detection has been accepted in [CSUR](https://dl.acm.org/journal/csur)！
@@ -64,6 +65,11 @@ My primary goal is to address the deficiencies in existing security analysis for
 ## Publication
 (* corresponding author)
 
+
+### CCS'26
+**ACOFuzz: Memory-Error-Sensitive Fuzzing Driven by Address-Computation-Operand-Aware Feedback Mechanism** (To appear)    
+Yiru Zhao, Aorui Zhang, Xiaoke Wang, Aoshuang Ye, Benxiao Tang, Jinxin Ma, Lei Zhao, **Heqing HUANG<sup>\*</sup>**    
+*The 33rd ACM Conference on Computer and Communications Security*.  
 
 ### ACL'26
 **When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents** (To appear)    
