@@ -74,9 +74,11 @@ Lei Zhao, **Heqing HUANG<sup>\*</sup>**
 
 
 ### ACL'26
-**When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents** (To appear)    
+**When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents**  
 Liang-Bo Ning, Yuchen Zhu, **Heqing HUANG**, Xin Wang, Yi Chang, Li Qing, Wenqi Fan    
 *The 64th Annual Meeting of the Association for Computational Linguistics*.  
+[[Artifacts]](https://github.com/H1nkik/Web-Agent)
+
 
 
 ### TDSC'25
