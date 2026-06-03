@@ -68,7 +68,8 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 ### CCS'26
 **ACOFuzz: Memory-Error-Sensitive Fuzzing Driven by Address-Computation-Operand-Aware Feedback Mechanism** (To appear)    
-Yiru Zhao, Aorui Zhang, Xiaoke Wang, Aoshuang Ye, Benxiao Tang, Jinxin Ma, Lei Zhao, **Heqing HUANG<sup>\*</sup>**    
+Yiru Zhao, Aorui Zhang, Xiaoke Wang, Aoshuang Ye, Benxiao Tang, Jinxin Ma, 
+Lei Zhao, **Heqing HUANG<sup>\*</sup>**    
 *The 33rd ACM Conference on Computer and Communications Security*.  
 
 
