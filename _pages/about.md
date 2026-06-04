@@ -236,8 +236,8 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 
 
 ## Teaching Service
-* CS2311 - Computer Programming (2024 Fall)
-* CS3402 - Database System (2024 Spring)
+* CS2311 - Computer Programming (2024-25 Fall)
+* CS3402 - Database System (2024-26 Spring)
 
 ## Funding and Cooperation
 Our work **Pangolin** published in **S&P 2020** has been successfully deployed in the Huawei tool-chain
