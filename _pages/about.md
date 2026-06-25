@@ -22,6 +22,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 **I am looking for Postdoc, Ph.D, MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
 ### **NEWS!**
+ * Our paper on securing software supply chain with enhanced composition analysis is accepted in [ISSTA 26](https://conf.researchr.org/home/issta-2026)!   
  * Our paper on designing fine-grained feedback considering bug triage for fuzzing has been accepted in [CCS 26](https://www.sigsac.org/ccs/CCS2026/)!
  * Our paper on defining a new type of performance vulnerability in AI agents has been accepted in [ACL](https://2026.aclweb.org) main track!
  * Our paper on detecting false negative vulnerabilities on autonomous driving simulators has been accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
@@ -64,6 +65,12 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 ## Publication
 (* corresponding author)
+
+
+### ISSTA'26
+**DeepSCA: Dependency-Aware Software Composition Analysis for C/C++ Based on a Curated Code Feature Database** (To appear)    
+Meiqiu Xu, Xibin Zhao, Wenxuan Yu, Zhiliang Zhu,  Li Li, **Heqing HUANG**, Ying Wang   
+*The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*.  
 
 
 ### CCS'26
