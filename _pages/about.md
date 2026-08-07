@@ -67,6 +67,12 @@ My primary goal is to address the deficiencies in existing security analysis for
 (* corresponding author)
 
 
+### OOPSLA'26
+**Revisiting Path Coverage Tracing from a Node-centric View** (To appear)    
+**Heqing HUANG**, Zhendong Su   
+*The 41st ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages and Applications*. 
+
+
 ### ISSTA'26
 **DeepSCA: Dependency-Aware Software Composition Analysis for C/C++ Based on a Curated Code Feature Database** (To appear)    
 Meiqiu Xu, Xibin Zhao, Wenxuan Yu, Zhiliang Zhu,  Li Li, **Heqing HUANG**, Ying Wang   
