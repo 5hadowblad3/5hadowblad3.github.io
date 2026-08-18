@@ -54,14 +54,16 @@ My primary goal is to address the deficiencies in existing security analysis for
   * Google Research Paper Award, 2022   
   * Huawei Distinguish Collaborator, 2021  
 
+## Postdoc
+  * Dr. Dezhen Kong (2026 fall)
 
 ## Students
   I am fortunate to work with the following students: 
-  * Shuo Yang (PhD, 2024)   
-  * Xiang Li (RA, 2024)  
-  * Weiwei Fu (PhD, 2024, co-supervision) 
-  * Haoyu Zhang (PhD, 2025, co-supervised with SLAI) 
-  * Zirui Lin (PhD, 2025)  
+  * Shuo Yang (PhD, 2024 fall)   
+  * Xiang Li (RA, 2024 fall)  
+  * Weiwei Fu (PhD, 2024 fall, co-supervision) 
+  * Haoyu Zhang (PhD, 2025 fall, co-supervised with SLAI) 
+  * Zirui Lin (PhD, 2025 fall)  
 
 
 ## Publication
