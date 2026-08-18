@@ -70,7 +70,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 
 ### OOPSLA'26
-**Revisiting Path Coverage Tracing from a Node-centric View** (To appear)    
+**Revisiting Path Coverage Tracing from a Node-Centric View** (To appear)    
 **Heqing HUANG**, Zhendong Su   
 <!-- *The 41st ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages and Applications*.  -->
 
