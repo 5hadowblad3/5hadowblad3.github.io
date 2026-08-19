@@ -236,6 +236,7 @@ Peisen Yao, Qingkai Shi, **Heqing Huang**, Charles Zhang.
 * Program committee, [CCS 24](https://www.sigsac.org/ccs/CCS2024/home.html)
 * Program committee, [SANER 23 (Tool Track)](https://saner2023.must.edu.mo)
 * Reviewer, [TDSC 25](https://www.computer.org/csdl/journal/tq)
+* Reviewer, [TOSEM 25](https://dl.acm.org/journal/TOSEM)
 * Reviewer, [TSE 25](https://www.computer.org/csdl/journal/ts)  
 * Reviewer, [TIFS 24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)  
 * Reviewer, [TSE 23](https://www.computer.org/csdl/journal/ts)  
