@@ -77,7 +77,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 ### TPAMI'26
 **Pattern in Motion: Retrieval-Augmented Learning for Dynamic Spatio-Temporal Graphs** (To appear)  
-Haoyu Zhang, Xinke Jiang, Wentao Zhang, Yuchen Fang, Hao Miao, Yifan Zhang,  **Heqing Huang**   
+Haoyu Zhang, Xinke Jiang, Wentao Zhang, Yuchen Fang, Hao Miao, Yifan Zhang<sup>\*</sup>,  **Heqing Huang**   
 
 
 ### ISSTA'26
