@@ -75,6 +75,11 @@ My primary goal is to address the deficiencies in existing security analysis for
 <!-- *The 41st ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages and Applications*.  -->
 
 
+### TPAMI'26
+**Pattern in Motion: Retrieval-Augmented Learning for Dynamic Spatio-Temporal Graphs** (To appear)  
+Haoyu Zhang, Xinke Jiang, Wentao Zhang, Yuchen Fang, Hao Miao, Yifan Zhang,  **Heqing Huang**   
+
+
 ### ISSTA'26
 **DeepSCA: Dependency-Aware Software Composition Analysis for C/C++ Based on a Curated Code Feature Database** (To appear)    
 Meiqiu Xu, Xibin Zhao, Wenxuan Yu, Zhiliang Zhu,  Li Li, **Heqing HUANG**, Ying Wang   
