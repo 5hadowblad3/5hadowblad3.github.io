@@ -63,6 +63,7 @@ My primary goal is to address the deficiencies in existing security analysis for
   * Haoyu Zhang (PhD, 2025 fall, co-supervised with SLAI) 
   * Zirui Lin (PhD, 2025 fall)  
   * Dr. Dezhen Kong (Postdoc, 2026 fall)
+  * Dongchen Xie (PhD, 2026 fall)
 
 
 ## Publication
@@ -70,9 +71,10 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 
 ### OOPSLA'26
-**Revisiting Path Coverage Tracing from a Node-Centric View** (To appear)    
+[**Revisiting Path Coverage Tracing from a Node-Centric View**](https://5hadowblad3.github.io/files/OOPSLA26-InsOpt.pdf)  
 **Heqing HUANG**, Zhendong Su   
 <!-- *The 41st ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages and Applications*.  -->
+[[Artifacts]](https://github.com/5hadowblad3/InsOpt-Artifact)
 
 
 ### TPAMI'26
@@ -113,6 +115,10 @@ Weiwei Fu, **Heqing Huang<sup>\*</sup>**, Yifan Zhang, Ke Zhang, Jin Huang, Weib
 [**LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights**](https://arxiv.org/abs/2502.07049)    
 Ze Sheng, Zhicheng Chen, Shuning Gu, **Heqing Huang**, Guofei Gu, Jeff Huang.      
 <!-- *ACM Computing Surveys*     -->
+
+### AIxCC‘25
+[**All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching**](https://arxiv.org/abs/2509.07225)  
+Ze Sheng, Qingxiao Xu, Jianwei Huang, Matthew Woodcock, **Heqing Huang**, Alastair F. Donaldson, Guofei Gu, Jeff Huang  
 
 
 ### TOCS'25
