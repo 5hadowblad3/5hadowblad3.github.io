@@ -22,6 +22,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 **I am looking for Postdoc, Ph.D, MPhil students as well as RAs. If you pursue making the program more secure and reliable, please feel free to send me an email.**
 
 ### **NEWS!**
+ * Our paper on detecting defects of existing fuzzing for autonomous driving has been accepted in [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)!
  * Our paper on provable optimizing path coverage instrumentation is accepted in [OOPSLA 26](https://conf.researchr.org/home/splash-issta-2026)! 
  * Our paper on securing software supply chain with enhanced composition analysis is accepted in [ISSTA 26](https://conf.researchr.org/home/issta-2026)!   
  * Our paper on designing fine-grained feedback considering bug triage for fuzzing has been accepted in [CCS 26](https://www.sigsac.org/ccs/CCS2026/)!
@@ -69,6 +70,12 @@ My primary goal is to address the deficiencies in existing security analysis for
 ## Publication
 (* corresponding author)
 
+### TDSC'26
+[**Evaluating the Reliability of Simulation-Based ADS Testers under Unconsidered Simulator Parameters**](To appear)   
+Weiwei Fu, **Heqing Huang<sup>\*</sup>**, Yifan Zhang, Weibin Lee, Jianping Wang.    
+<!-- *IEEE Transactions on Dependable and Secure Computing*. -->
+
+
 
 ### OOPSLA'26
 [**Revisiting Path Coverage Tracing from a Node-Centric View**](https://5hadowblad3.github.io/files/OOPSLA26-InsOpt.pdf)  
@@ -78,12 +85,12 @@ My primary goal is to address the deficiencies in existing security analysis for
 
 
 ### TPAMI'26
-**Pattern in Motion: Retrieval-Augmented Learning for Dynamic Spatio-Temporal Graphs** (To appear)  
+[**Pattern in Motion: Retrieval-Augmented Learning for Dynamic Spatio-Temporal Graphs**](https://ieeexplore.ieee.org/abstract/document/11674299/)   
 Haoyu Zhang, Xinke Jiang, Wentao Zhang, Yuchen Fang, Hao Miao, Yifan Zhang,  **Heqing Huang**   
 
 
 ### ISSTA'26
-**DeepSCA: Dependency-Aware Software Composition Analysis for C/C++ Based on a Curated Code Feature Database** (To appear)    
+[**DeepSCA: Dependency-Aware Software Composition Analysis for C/C++ Based on a Curated Code Feature Database**](https://dl.acm.org/doi/abs/10.1145/3832227)   
 Meiqiu Xu, Xibin Zhao, Wenxuan Yu, Zhiliang Zhu,  Li Li, **Heqing HUANG**, Ying Wang   
 <!-- *The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis*.   -->
 
