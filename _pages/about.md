@@ -71,7 +71,7 @@ My primary goal is to address the deficiencies in existing security analysis for
 (* corresponding author)
 
 ### TDSC'26
-[**Evaluating the Reliability of Simulation-Based ADS Testers under Unconsidered Simulator Parameters**](To appear)   
+**Evaluating the Reliability of Simulation-Based ADS Testers under Unconsidered Simulator Parameters** (To appear)   
 Weiwei Fu, **Heqing Huang<sup>\*</sup>**, Yifan Zhang, Weibin Lee, Jianping Wang     
 <!-- *IEEE Transactions on Dependable and Secure Computing*. -->
 
