@@ -60,7 +60,7 @@ My primary goal is to address the deficiencies in existing security analysis for
   I am fortunate to work with the following students and staffs: 
   * [Shuo Yang](https://mf0-ant1shy.github.io) (PhD, 2024 fall)   
   * [Xiang Li](https://seanlmax.github.io) (RA, 2024 fall)  
-  * [Weiwei Fu](https://scholars.cityu.edu.hk/en/persons/weiweifu2/) (PhD, 2024 fall, co-supervision) 
+  * [Weiwei Fu](https://aoooooa.github.io/) (PhD, 2024 fall, co-supervision) 
   * [Haoyu Zhang](https://howeyz.github.io) (PhD, 2025 fall, co-supervised with SLAI) 
   * [Zirui Lin](https://scholar.google.com/citations?user=R-KvhuoAAAAJ&hl=zh-CN) (PhD, 2025 fall)  
   * [Dr. Dezhen Kong](https://cstimkong.github.io) (Postdoc, 2026 fall)
